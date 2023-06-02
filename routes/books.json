@@ -1,0 +1,39 @@
+[
+    { "id": 1,
+     "name": "A Brief History of Time",
+     "author": "Stephen Hawking" 
+    },
+    {
+      "id": 2,
+      "name": "Cosmos",
+      "author": "Carl Sagan"
+    },
+    { "id": 3,
+     "name": "The Selfish Gene",
+     "author": "Richard Dawkins" 
+    },
+    { "id": 4, 
+    "name": "The Elegant Universe",
+     "author": "Brian Greene" 
+    },
+    {
+      "id": 5,
+      "name": "Silent Spring",
+      "author": "Rachel Carson"
+    },
+    {
+        "id": 6,
+        "name": "The Double Helix",
+        "author": "James D"
+      },
+      {
+        "id": 7,
+        "name": "The Superorganism: The Beauty, Elegance, and Strangeness of Insect Societies",
+        "author": "Bert Holldobler"
+      },
+      {
+        "id": 8,
+        "name": "What is Life?",
+        "author": " Erwin Schrodinger"
+      }
+  ]
